@@ -1,0 +1,10 @@
+{
+  "version": "v1",
+  "packages": {
+    "minecraft-data": {
+      "signature": "4b632d929e336f48bff774124cff1029",
+      "file": true,
+      "replaced": "^3.0.0"
+    }
+  }
+}
